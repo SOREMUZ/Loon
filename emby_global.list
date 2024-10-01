@@ -12,7 +12,7 @@ DOMAIN-SUFFIX.lcloud.wiki
 
 
 # PiliPili前后端分离
-DOMAIN-SUFFIXpilipiliultra.top
+DOMAIN-SUFFIX,pilipiliultra.top
 DOMAIN-SUFFIX.pilipiliultra.com
 
 # TeCar
@@ -33,4 +33,4 @@ DOMAIN-SUFFIX,agon.cf
 
 # 卡戎Charon
 DOMAIN-KEYWORD,charontv
-DOMAIN-SUFFIX, charontv.com
+DOMAIN-SUFFIX,charontv.com
