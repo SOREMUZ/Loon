@@ -1,0 +1,47 @@
+# > 不明
+DOMAIN-KEYWORD,kblmh
+#DOMAIN-WILDCARD,blcnimgDOMAIN*
+
+#漫画下载raw
+#DOMAIN-SUFFIX,dl-raw.se
+#DOMAIN-KEYWORD,pubg
+DOMAIN-SUFFIX,syosetu.si
+
+#bato漫画在线
+DOMAIN-SUFFIX,xfsbb.com
+DOMAIN-SUFFIX,bato.to
+
+# > 拷贝
+DOMAIN-KEYWORD,funa
+DOMAIN-KEYWORD,copymanga
+DOMAIN-KEYWORD,copy
+
+# > 香香腐宅
+#DOMAIN-KEYWORD,boylove
+
+
+# > 啵乐
+DOMAIN-KEYWORD,boyboyz
+DOMAIN-KEYWORD,mybl.xyz
+DOMAIN-KEYWORD,boye.xyz
+DOMAIN-KEYWORD,uuke.cc
+DOMAIN-KEYWORD,bole.blue
+DOMAIN-KEYWORD,boycc.top
+DOMAIN-KEYWORD,byle.cc
+
+# > 漫蛙
+#DOMAIN-KEYWORD,manwa
+#DOMAIN-KEYWORD,mwfimsvfast
+#DOMAIN-KEYWORD,mwimser
+
+# > 一耽
+DOMAIN-KEYWORD,idan
+
+# > 新新
+DOMAIN-KEYWORD,77mh
+DOMAIN-KEYWORD,77dm
+
+
+
+
+
