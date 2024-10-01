@@ -1,7 +1,3 @@
-#!name = Emby Filter
-#!desc = Emby服务器分流。
-#!author = soremuz
-
 [Rule]
 #杂项
 DOMAIN-SUFFIX,xn--pxtr7m.com,DIRECT
