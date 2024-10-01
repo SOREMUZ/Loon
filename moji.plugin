@@ -1,7 +1,7 @@
 #!name=MOJIRewrite
 #!desc=MOJI辞书搜索重定向
-#!author=soremuz
-#!homepage=https://github.com/SOREMUZ/Loon
+#!author=soremuz[https://github.com/SOREMUZ/Loon/blob/main/moji.plugin]
+#!homepage=https://github.com/SOREMUZ/Loon/blob/main/moji.plugin
 
 [URL Rewrite]
 
