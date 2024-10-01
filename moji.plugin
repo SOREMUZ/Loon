@@ -1,0 +1,14 @@
+#!name=MOJIRewrite
+#!desc=MOJI辞书搜索重定向
+#!openUrl=
+#!author=soremuz
+#!homepage=https://github.com/SOREMUZ/Loon
+#!icon=
+[URL Rewrite]
+
+https:\/\/www\.gavo\.t\.u-tokyo\.ac\.jp\/ojad\/search\/index\/.+\/word:([^/]+) https://search.yahoo.co.jp/search?p=$1 302
+^https?:\/\/m\.baidu\.com\/s\?wd=([^&]+) https://www.google.com/search?q=$1 302
+
+
+[MITM]
+hostname = m.baidu.com,www.gavo.t.u-tokyo.ac.jp
