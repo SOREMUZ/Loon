@@ -1,27 +1,3 @@
-#欢乐观影屋
-DOMAIN-SUFFIX,slove.info
-DOMAIN-SUFFIX,null.hair
-DOMAIN-SUFFIX,slove.eu.org
-
-#ntRRR EMBY
-DOMAIN-SUFFIX,ntrrr.top
-
-#PiliPili
-DOMAIN-SUFFIX,pilipiliultra.top
-DOMAIN-SUFFIX,pilipiliultra.com
-
-#TeCar
-DOMAIN-SUFFIX,carlos.trade
-
-#JMS卷毛鼠
-DOMAIN-SUFFIX,jmsuper.com
-DOMAIN-SUFFIX,jmsooo.com
-
-#Misty
-DOMAIN-KEYWORD,misty
-DOMAIN-SUFFIX,misty.cx
-
-
 #卡戎Charon
 DOMAIN-KEYWORD,charontv
 DOMAIN-SUFFIX,charontv.com
