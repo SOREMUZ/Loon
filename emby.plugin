@@ -1,6 +1,6 @@
 #!name = Emby Filter
 #!desc = EMBY服务器分流
-#!author = soremuz[https://github.com/SOREMUZ/Loon/edit/main/emby.plugin]
+#!openUrl = https://github.com/SOREMUZ/Loon/edit/main/emby.plugin
 
 [Rule]
 
