@@ -231,8 +231,8 @@ DOMAIN-SUFFIX,us.zerodisk.site,DIRECT
 DOMAIN-SUFFIX,txrui.top,DIRECT
 
 # 终点站
-DOMAIN-SUFFIX,term.wtf,EMBY
-DOMAIN-SUFFIX,emby.wtf,EMBY
+DOMAIN-SUFFIX,term.wtf,DIRECT
+DOMAIN-SUFFIX,emby.wtf,DIRECT
 
 
 # CaptainZ
