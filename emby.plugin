@@ -16,6 +16,11 @@ DOMAIN-KEYWORD, miwifi.com,DIRECT
 #非越
 DOMAIN-SUFFIX,sfcj.org,DIRECT
 
+#hka
+DOMAIN-SUFFIX,hka-emby.aliz.work,DIRECT
+DOMAIN-SUFFIX,hka-emby2.aliz.work,DIRECT
+DOMAIN-SUFFIX,hka-emby1.aliz.work,DIRECT
+
 #free
 DOMAIN-SUFFIX,emby.intel.im,DIRECT
 
