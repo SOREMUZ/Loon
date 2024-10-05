@@ -16,6 +16,10 @@ DOMAIN-KEYWORD, miwifi.com,DIRECT
 #非越
 DOMAIN-SUFFIX,sfcj.org,DIRECT
 
+#facmata
+DOMAIN-SUFFIX,facmata.net,DIRECT
+
+
 #hka
 DOMAIN-SUFFIX,hka-emby.aliz.work,EMBY
 DOMAIN-SUFFIX,hka-emby2.aliz.work,EMBY
