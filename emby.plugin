@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,cf.0sm.com,DIRECT
 #DOMAIN-KEYWORD,japaneast1,DIRECT
 
 #非越
-DOMAIN-SUFFIX,sfcj.org,EMBY
+DOMAIN-SUFFIX,sfcj.org,DIRECT
 
 #facmata
 DOMAIN-SUFFIX,facmata.net,DIRECT
