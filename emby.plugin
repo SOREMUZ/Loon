@@ -16,6 +16,10 @@ DOMAIN-SUFFIX,cf.0sm.com,DIRECT
 #onedrive下载
 #DOMAIN-KEYWORD,japaneast1,DIRECT
 
+#alphatv
+DOMAIN-SUFFIX,alphatvapp.top,DIRECT
+
+
 #非越
 DOMAIN-SUFFIX,sfcj.org,DIRECT
 
