@@ -8,7 +8,7 @@
 #:\/\/www\.gavo\.t\.u-tokyo\.ac\.jp\/ojad\/search\/index\/.+\/word:([^/]+) https://search.yahoo.co.jp/search?p=$1 302
 #^https?:\/\/m\.baidu\.com\/s\?wd=([^&]+) https://www.google.com/search?q=$1 302
 
-^https?:\/\/www\.gavo\.t\.u-tokyo\.ac\.jp\/ojad\/search\/index\/.*\/word:([^\/\?]+) 302 https://search.yahoo.co.jp/search?p=$1
+^https?:\/\/www\.gavo\.t\.u-tokyo\.ac\.jp\/ojad\/search\/index\/.*\/word:([^\/\?]+).* 302 https://search.yahoo.co.jp/search?p=$1
 ^https?:\/\/m\.baidu\.com\/s\?(?:[^&]*&)*wd=([^&]+) 302 https://www.google.com/search?q=$1
 
 
