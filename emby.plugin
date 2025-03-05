@@ -11,8 +11,8 @@ DOMAIN-KEYWORD,qqbb,DIRECT
 DOMAIN-SUFFIX, miwifi.com,DIRECT
 DOMAIN-SUFFIX,apii.xqc.best,DIRECT
 
-#漫
-DOMAIN-SUFFIX,manwa.me,EMBY
+#漫画
+DOMAIN-SUFFIX,manwa.me,香港节点
 
 
 #cf加速
