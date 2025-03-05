@@ -10,6 +10,11 @@ DOMAIN-SUFFIX,josscii.top,DIRECT
 DOMAIN-KEYWORD,qqbb,DIRECT
 DOMAIN-SUFFIX, miwifi.com,DIRECT
 DOMAIN-SUFFIX,apii.xqc.best,DIRECT
+
+#漫
+DOMAIN-SUFFIX,manwa.me,EMBY
+
+
 #cf加速
 DOMAIN-SUFFIX,cf.0sm.com,DIRECT
 
