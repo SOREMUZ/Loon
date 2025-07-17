@@ -12,8 +12,8 @@ DOMAIN-SUFFIX, miwifi.com,DIRECT
 DOMAIN-SUFFIX,apii.xqc.best,DIRECT
 
 #ankimerriam-webster词典
-DOMAIN-KEYWORD,merriam-webster,美国节点
-DOMAIN-SUFFIX,dictionaryapi.com，美国节点
+#DOMAIN-KEYWORD,merriam-webster,美国节点
+#DOMAIN-SUFFIX,dictionaryapi.com，美国节点
 
 
 
