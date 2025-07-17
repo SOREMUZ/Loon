@@ -11,6 +11,12 @@ DOMAIN-KEYWORD,qqbb,DIRECT
 DOMAIN-SUFFIX, miwifi.com,DIRECT
 DOMAIN-SUFFIX,apii.xqc.best,DIRECT
 
+#ankimerriam-webster词典
+DOMAIN-KEYWORD,merriam-webster,美国节点
+DOMAIN-SUFFIX,dictionaryapi.com，美国节点
+
+
+
 #漫画
 DOMAIN-SUFFIX,manwa.me,香港节点
 DOMAIN-SUFFIX,mwfimsvfast5.cc,香港节点
