@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,cf.0sm.com,DIRECT
 #ntrrr
 DOMAIN-SUFFIX,makima.online,DIRECT
 IP-CIDR,36.151.65.228/32,DIRECT
+DOMAIN-SUFFIX,stream.synn.cc,DIRECT
 
 #alphatv
 DOMAIN-SUFFIX,alphatvapp.top,EMBY
