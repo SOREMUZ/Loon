@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,cf.0sm.com,DIRECT
 #ntrrr
 DOMAIN-SUFFIX,makima.online,DIRECT
 IP-CIDR,36.151.65.228/32,DIRECT
-DOMAIN-SUFFIX,stream.synn.cc,DIRECT
+DOMAIN-SUFFIX,stream.synn.cc,EMBY
 
 #alphatv
 DOMAIN-SUFFIX,alphatvapp.top,EMBY
@@ -117,9 +117,6 @@ DOMAIN-SUFFIX,lyrebirdemby.com,DIRECT
 DOMAIN,film.reddust.link,DIRECT
 DOMAIN-SUFFIX,reddust.link,DIRECT
 
-#--> ntRRR EMBY <--
-
-DOMAIN-SUFFIX,ntrrr.top,EMBY
 
 #小新
 DOMAIN-SUFFIX,888.881075.xyz,DIRECT
