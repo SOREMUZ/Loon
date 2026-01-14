@@ -61,8 +61,8 @@ DOMAIN-SUFFIX,emby.intel.im,DIRECT
 
 
 #守候
-DOMAIN-SUFFIX,cn2gias.uk,DIRECT
 DOMAIN-SUFFIX,lite.cn2gias.uk,EMBY
+DOMAIN-SUFFIX,server2.cn2gias.uk,DIRECT
 
 
 #大v
