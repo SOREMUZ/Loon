@@ -24,7 +24,8 @@ DOMAIN-SUFFIX,manwa.me,香港节点
 DOMAIN-SUFFIX,mwfimsvfast5.cc,香港节点
 DOMAIN-SUFFIX,boylove.cc,香港节点
 
-
+#守候
+DOMAIN-SUFFIX,ncdn1.sntp.uk,DIRECT
 #cf加速
 DOMAIN-SUFFIX,cf.0sm.com,DIRECT
 
