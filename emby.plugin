@@ -26,6 +26,9 @@ DOMAIN-SUFFIX,boylove.cc,香港节点
 
 #守候
 DOMAIN-SUFFIX,ncdn1.sntp.uk,DIRECT
+DOMAIN-SUFFIX,lite.cn2gias.uk,DIRECT
+DOMAIN-SUFFIX,server2.cn2gias.uk,DIRECT
+
 #cf加速
 DOMAIN-SUFFIX,cf.0sm.com,DIRECT
 
@@ -61,9 +64,7 @@ DOMAIN-SUFFIX,hka-emby1.aliz.work,EMBY
 DOMAIN-SUFFIX,emby.intel.im,DIRECT
 
 
-#守候
-DOMAIN-SUFFIX,lite.cn2gias.uk,EMBY
-DOMAIN-SUFFIX,server2.cn2gias.uk,DIRECT
+
 
 #大v
 
