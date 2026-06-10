@@ -3,9 +3,6 @@
 DOMAIN-SUFFIX,mp-pxcdn.com
 DOMAIN-SUFFIX,bbc-dcs-ak.mp-pxcdn.com
 DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
-DOMAIN,bookkeeper.itunes.apple.com
-DOMAIN,amp-api.podcasts.apple.com
-
 
 # NAME: BBC
 # AUTHOR: blackmatrix7
