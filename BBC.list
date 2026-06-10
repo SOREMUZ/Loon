@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,bbc-dcs-ak.mp-pxcdn.com
 # DOMAIN-SUFFIX: 15
 # USER-AGENT: 1
 # TOTAL: 29
+DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
 DOMAIN,as-dash-uk-live.akamaized.net
