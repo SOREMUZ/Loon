@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,bbc-dcs-ak.mp-pxcdn.com
 # USER-AGENT: 1
 # TOTAL: 29
 DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
-DOMAIN,books.itunes.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
 DOMAIN,as-dash-uk-live.akamaized.net
