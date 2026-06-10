@@ -2,18 +2,19 @@
 
 DOMAIN-SUFFIX,mp-pxcdn.com
 DOMAIN-SUFFIX,bbc-dcs-ak.mp-pxcdn.com
+DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN,amp-api.podcasts.apple.com
 
 # NAME: BBC
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:16:11
+# UPDATED: 2025-06-06 09:16:56
 # DOMAIN: 11
 # DOMAIN-KEYWORD: 2
 # DOMAIN-SUFFIX: 15
 # USER-AGENT: 1
 # TOTAL: 29
-DOMAIN-SUFFIX,bbc.pdn.tritondigital.com
-DOMAIN,bookkeeper.itunes.apple.com
 DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
 DOMAIN,as-dash-uk-live.akamaized.net
