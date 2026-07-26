@@ -20,7 +20,10 @@ DOMAIN-KEYWORD,lunaranime,DIRECT
 DOMAIN-KEYWORD,merriam-webster,美国节点
 DOMAIN-SUFFIX,dictionaryapi.com,美国节点
 
-
+#lunaranime
+DOMAIN-SUFFIX,brunhild.challenges.cloudflare.com,DIRECT
+DOMAIN-SUFFIX,challenges.cloudflare.com,DIRECT
+DOMAIN-KEYWORD,lunaranime,DIRECT
 
 #漫画
 DOMAIN-SUFFIX,manwa.me,香港节点
