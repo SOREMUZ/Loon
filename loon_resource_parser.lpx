@@ -22,4 +22,4 @@ noCache = switch,false,tag=禁用缓存,desc=如果自定义UA获取不到节点
 ua = switch,false,tag=自定义 UA,desc=开启后使用自定义 User-Agent 拉取订阅。
 
 [Script]
-generic script-path=https://raw.githubusercontent.com/mc2u/Loon/refs/heads/main/Scripts/loon_resource_parser.js,tag=资源解析器,timeout=10,argument=[{pre},{suf},{rename},{filter},{sort},{emoji},{userAgent},{noCache},{ua}]
+generic script-path=https://raw.githubusercontent.com/SOREMUZ/Loon/refs/heads/main/loon_resource_parser.js,tag=资源解析器,timeout=10,argument=[{pre},{suf},{rename},{filter},{sort},{emoji},{userAgent},{noCache},{ua}]
