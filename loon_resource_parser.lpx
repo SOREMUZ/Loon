@@ -11,7 +11,7 @@
 #!type=parser
 
 [Argument]
-filter = input,"",tag=节点筛选关键词,desc=输入后将只保留包含该关键词的节点（例如 0.1），支持多个关键词用英文逗号或竖线分隔
+filter = input,"",tag=节点筛选,desc=输入后将只保留包含该关键词的节点（例如 0.1），支持多个关键词用英文逗号或竖线分隔
 pre = input,"",tag=节点前缀,desc=添加到所有节点名称开头
 suf = input,"",tag=节点后缀,desc=添加到所有节点名称末尾
 rename = input,"",tag=文本替换,desc=格式为 旧文本:新文本，多个规则用英文逗号分隔，例如 香港:HK,日本:JP
