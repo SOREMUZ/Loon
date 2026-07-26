@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,dictionaryapi.com,美国节点
 DOMAIN-SUFFIX,brunhild.challenges.cloudflare.com,DIRECT
 DOMAIN-SUFFIX,challenges.cloudflare.com,DIRECT
 DOMAIN-KEYWORD,lunaranime,DIRECT
+DOMAIN-SUFFIX,files.catbox.moe,DIRECT
 
 #漫画
 DOMAIN-SUFFIX,manwa.me,香港节点
