@@ -1,0 +1,13 @@
+[Argument]
+include = input,"",tag=保留节点筛选,desc=仅保留包含指定关键词的节点，多个关键词用英文逗号分隔，例如 美,US,日,JP
+pre = input,"",tag=节点前缀,desc=添加到所有节点名称开头
+suf = input,"",tag=节点后缀,desc=添加到所有节点名称末尾
+rename = input,"",tag=文本替换,desc=格式为 旧文本:新文本，多个规则用英文逗号分隔，例如 香港:HK,日本:JP；如需匹配英文冒号、逗号、反斜杠，分别写作 \:、\,、\\
+sort = input,"",tag=节点排序,desc=按关键词先后顺序排序，使用英文逗号分隔，例如 香港,日本,新加坡,美国
+emoji = switch,false,tag=去除 Emoji,desc=去除节点名称中的 Emoji 和旗帜
+userAgent = input,"Shadowrocket/3308 CFNetwork/3886.100.1 Darwin/27.0.0 iPhone18,1",tag=User-Agent,desc=仅在自定义 UA 开关开启时生效。
+noCache = switch,false,tag=禁用缓存,desc=如果自定义UA获取不到节点可以开启试试。
+ua = switch,false,tag=自定义 UA,desc=开启后使用自定义 User-Agent 拉取订阅。
+
+[Script]
+generic script-path=你的脚本链接或路径,tag=资源解析器,timeout=10,argument=[{pre},{suf},{emoji},{rename},{sort},{include},{ua},{userAgent},{noCache}]
