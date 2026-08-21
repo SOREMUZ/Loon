@@ -298,8 +298,7 @@ DOMAIN,media.emby.vip,DIRECT
 DOMAIN,tv.ash.yt,DIRECT
 DOMAIN,e.niceduck.me,DIRECT
 DOMAIN,notnetflix.cos.cat,DIRECT
-
-
+DOMAIN-SUFFIX,nano.cr18.eu.org,EMBY
 # 剧狗
 DOMAIN-SUFFIX,ju.dog,DIRECT
 IP-CIDR,95.216.18.82/32,DIRECT
