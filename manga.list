@@ -43,9 +43,13 @@ DOMAIN-KEYWORD,byle.cc
 
 # > 漫蛙
 #DOMAIN-KEYWORD,manwa
-#DOMAIN-KEYWORD,mwfimsvfast
+DOMAIN-KEYWORD,mwfimsvfast
 #DOMAIN-KEYWORD,mwimser
 DOMAIN-KEYWORD,manwadf.cc
+DOMAIN-SUFFIX,manwaqg.cc
+DOMAIN-SUFFIX,manwaqh.cc
+DOMAIN-SUFFIX,manwaqj.cc
+DOMAIN-SUFFIX,manwaqo.cc
 
 # > 一耽
 DOMAIN-KEYWORD,idan
