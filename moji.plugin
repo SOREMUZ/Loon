@@ -9,9 +9,30 @@
 #^https?:\/\/m\.baidu\.com\/s\?wd=([^&]+) https://www.google.com/search?q=$1 302
 #baidu跳转谷歌
 
-^https?:\/\/www\.gavo\.t\.u-tokyo\.ac\.jp\/ojad\/search\/index\/.*\/word:([^\/\?]+)(?:\?.*)?$ 302 https://search.yahoo.co.jp/search?p=$1
-^https?:\/\/m\.baidu\.com\/s\?(?:[^&]*&)*wd=([^&]+) 302 https://www.google.com/search?q=$1
+request if ${url} ~= /^https?:\/\/www\.gavo\.t\.u-tokyo\.ac\.jp\/ojad\/search\/index\/.*\/word:([^\/\?]+)(?:\?.*)?$/i as urlMatch then redirect(302, "https://search.yahoo.co.jp/search?p=${urlMatch.1}")
+request if ${url} ~= /^https?:\/\/m\.baidu\.com\/s\?(?:[^&]*&)*wd=([^&]+)/i as urlMatch then redirect(302, "https://www.google.com/search?q=${urlMatch.1}")
 
 
 [MITM]
 hostname = m.baidu.com,www.gavo.t.u-tokyo.ac.jp
+
+
+
+#!name=MOJIRewrite
+#!desc=MOJI辞书搜索重定向
+#!author=soremuz[https://github.com/SOREMUZ/Loon/blob/main/moji.plugin]
+#!homepage=https://github.com/SOREMUZ/Loon/blob/main/moji.plugin
+
+#[URL Rewrite]
+
+#:\/\/www\.gavo\.t\.u-tokyo\.ac\.jp\/ojad\/search\/index\/.+\/word:([^/]+) https://search.yahoo.co.jp/search?p=$1 302
+#^https?:\/\/m\.baidu\.com\/s\?wd=([^&]+) https://www.google.com/search?q=$1 302
+#baidu跳转谷歌
+
+#^https?:\/\/www\.gavo\.t\.u-tokyo\.ac\.jp\/ojad\/search\/index\/.*\/word:([^\/\?]+)(?:\?.*)?$ 302 https://search.yahoo.co.jp/search?p=$1
+#^https?:\/\/m\.baidu\.com\/s\?(?:[^&]*&)*wd=([^&]+) 302 https://www.google.com/search?q=$1
+
+
+#[MITM]
+#hostname = m.baidu.com,www.gavo.t.u-tokyo.ac.jp
+
